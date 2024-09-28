@@ -5,6 +5,6 @@
 
 -------  
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"><img align="center" src="githubbottom.jpg" alt="hexagone"/></p>
+<img align="center" src="githubbottom.jpg" alt="hexagone"/>
 
 
