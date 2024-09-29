@@ -5,7 +5,7 @@
 
 -------  
 <h3 align="center">Languages and Tools:</h3>
-<img align="center" src="githubunderrework.jpg" alt="hexagone" width="100%" />
+<img align="center" src="underReworkGithub.svg" alt="hexagone" width="100%" />
 
 
 
