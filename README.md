@@ -8,10 +8,10 @@ I studied for 2 years at Epitech, and I decided to continue as a web developer a
 I'm passionate about sports, music, traveling, hiking, and meeting new people. There’s always something exciting to discover!
 
 ## Links
-* <img src="./assets/logoDF2.svg" alt="Mon emoji" width="20" height="15"/>  [Portfolio](https://fierensdev.github.io/) -> https://fierensdev.github.io/portfolio/
+* <img src="./assets/logoDF2.svg" alt="Mon emoji" width="20" height="15"/>  [Portfolio](https://fierensdev.github.io/) -> https://fierensdev.github.io/portfolio
 * <img src="./assets/github.svg" alt="Mon emoji" width="20" height="18"/>  [Github](https://github.com/FierensDev) -> https://github.com/FierensDev
-* <img src="./assets/linkedin.svg" alt="Mon emoji" width="20" height="18"/>  [LinkedIn](https://www.linkedin.com/in/fierensdenis/) -> https://www.linkedin.com/in/fierensdenis/
-* <img src="./assets/instagram.svg" alt="Mon emoji" width="20" height="18"/>  [Instagram](https://www.instagram.com/d.fierens_/) -> https://www.instagram.com/d.fierens_/
+* <img src="./assets/linkedin.svg" alt="Mon emoji" width="20" height="18"/>  [LinkedIn](https://www.linkedin.com/in/fierensdenis/) -> https://www.linkedin.com/in/fierensdenis
+* <img src="./assets/instagram.svg" alt="Mon emoji" width="20" height="18"/>  [Instagram](https://www.instagram.com/d.fierens_/) -> https://www.instagram.com/d.fierens_
 
 <!-- - 📫 How to reach me: denis.fierens@epitech.eu -->
 
