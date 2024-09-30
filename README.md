@@ -14,10 +14,7 @@ I love sport, music and so much more !
 * <img src="./assets/instagram.svg" alt="Mon emoji" width="20" height="18"/>  [Instagram](https://www.instagram.com/d.fierens_/) -> https://www.instagram.com/d.fierens_/
 
 <!-- - 📫 How to reach me: denis.fierens@epitech.eu -->
-<!-- <img align="center" src="languagesAndTools.svg" alt="hexagone" width="100%" />
-<img align="center" src="githubbottombar.svg" alt="hexagone" width="100%" /> -->
 
-
- <a href="https://lien">https://lien</a>
-
-
+## Langages and tools
+<img align="center" src="languagesAndTools.svg" alt="hexagone" width="100%" />
+<img align="center" src="githubbottombar.svg" alt="hexagone" width="100%" />
