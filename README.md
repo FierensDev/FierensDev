@@ -3,7 +3,7 @@
 
 ## About
 
-i learned 2 years at Epitech and i decided to continue as a web developer at ESGI in alternance.
+I studied for 2 years at Epitech, and I decided to continue as a web developer at ESGI in a work-study program.
 
 I'm passionate about sports, music, traveling, hiking, and meeting new people. There’s always something exciting to discover!
 
