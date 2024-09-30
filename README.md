@@ -18,6 +18,6 @@ I love sport, music and so much more !
 <img align="center" src="githubbottombar.svg" alt="hexagone" width="100%" /> -->
 
 
-<img src="logoDF2.svg" alt="Mon emoji" width="30" height="30"> <a href="https://lien">https://lien</a>
+<img src="logoDF2.svg" alt="Mon emoji" width="15" height="15"> <a href="https://lien">https://lien</a>
 
 
