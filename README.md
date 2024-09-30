@@ -5,7 +5,7 @@
 
 i learned 2 years at Epitech and i decided to continue as a web developer at ESGI in alternance.
 
-I love sport, music and so much more ! 
+I'm passionate about sports, music, traveling, hiking, and meeting new people. There’s always something exciting to discover!
 
 ## Links
 * <img src="./assets/logoDF2.svg" alt="Mon emoji" width="20" height="15"/>  [Portfolio](https://fierensdev.github.io/) -> https://fierensdev.github.io/portfolio/
