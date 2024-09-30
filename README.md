@@ -15,6 +15,6 @@ I love sport, music and so much more !
 
 <!-- - 📫 How to reach me: denis.fierens@epitech.eu -->
 
-## Langages and tools
+<!-- ## Langages and tools -->
 <img align="center" src="languagesAndTools.svg" alt="hexagone" width="100%" />
 <img align="center" src="githubbottombar.svg" alt="hexagone" width="100%" />
