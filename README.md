@@ -9,9 +9,9 @@ I love sport, music and so much more !
 
 ## Links
 * <img src="./assets/logoDF2.svg" alt="Mon emoji" width="10" height="10"/>  [Portfolio](https://fierensdev.github.io/) -> https://fierensdev.github.io/portfolio/
-* <img src="./assets/github.svg" alt="Mon emoji" width="20" height="15"/>  [Github](https://github.com/FierensDev) -> https://github.com/FierensDev
-* <img src="./assets/linkedin.svg" alt="Mon emoji" width="20" height="15"/>  [LinkedIn](https://www.linkedin.com/in/fierensdenis/) -> https://www.linkedin.com/in/fierensdenis/
-* <img src="./assets/instagram.svg" alt="Mon emoji" width="20" height="15"/>  [Instagram](https://www.instagram.com/d.fierens_/) -> https://www.instagram.com/d.fierens_/
+* <img src="./assets/github.svg" alt="Mon emoji" width="20" height="18"/>  [Github](https://github.com/FierensDev) -> https://github.com/FierensDev
+* <img src="./assets/linkedin.svg" alt="Mon emoji" width="20" height="18"/>  [LinkedIn](https://www.linkedin.com/in/fierensdenis/) -> https://www.linkedin.com/in/fierensdenis/
+* <img src="./assets/instagram.svg" alt="Mon emoji" width="20" height="18"/>  [Instagram](https://www.instagram.com/d.fierens_/) -> https://www.instagram.com/d.fierens_/
 
 <!-- - 📫 How to reach me: denis.fierens@epitech.eu -->
 <!-- <img align="center" src="languagesAndTools.svg" alt="hexagone" width="100%" />
