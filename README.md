@@ -8,12 +8,11 @@ i learned 2 years at Epitech and i decided to continue as a web developer at ESG
 I love sport, music and so much more ! 
 
 ## Links
-* Portfolio -> https://fierensdev.github.io/portfolio/
-* LinkedIn -> https://www.linkedin.com/in/fierensdenis/
+* [Portfolio](https://fierensdev.github.io/) -> https://fierensdev.github.io/portfolio/
+* [Github](https://github.com/FierensDev) -> https://github.com/FierensDev
+* [LinkedIn](https://www.linkedin.com/in/fierensdenis/) -> https://www.linkedin.com/in/fierensdenis/
+* [Instagram](https://www.instagram.com/d.fierens_/) -> https://www.instagram.com/d.fierens_/
 
-* Instagram -> https://www.instagram.com/d.fierens_/
-
-* Github -> https://github.com/FierensDev
 <!-- - 📫 How to reach me: denis.fierens@epitech.eu -->
 <!-- <img align="center" src="languagesAndTools.svg" alt="hexagone" width="100%" />
 <img align="center" src="githubbottombar.svg" alt="hexagone" width="100%" /> -->
