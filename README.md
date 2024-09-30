@@ -9,7 +9,7 @@ I love sport, music and so much more !
 
 ## Links
 <img src="./assets/logoDF2.svg" alt="Mon emoji" width="10" height="10"/>  [Portfolio](https://fierensdev.github.io/) -> https://fierensdev.github.io/portfolio/
-* [Github](https://github.com/FierensDev) -> https://github.com/FierensDev
+<img src="./assets/github.svg" alt="Mon emoji" width="10" height="10"/>  [Github](https://github.com/FierensDev) -> https://github.com/FierensDev
 * [LinkedIn](https://www.linkedin.com/in/fierensdenis/) -> https://www.linkedin.com/in/fierensdenis/
 * [Instagram](https://www.instagram.com/d.fierens_/) -> https://www.instagram.com/d.fierens_/
 
